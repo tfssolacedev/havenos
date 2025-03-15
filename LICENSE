@@ -1,21 +1,73 @@
-MIT License
+### **MIT License**
 
-Copyright (c) 2025 Solace
+**Copyright (c) 2025 Solace**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the "Software"), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+#### **1. Decentralized Nature**
+The Software is designed as a decentralized system, meaning there is no central authority or infrastructure controlling its operation. Any actions taken by users or third parties are independent of the involvement of the original developers or contributors.
+
+- The Software operates in a decentralized manner and does not guarantee centralized control or oversight.
+- Users are free to fork, modify, or adapt the open-source codebase for their own purposes, provided they comply with the terms of this license.
+
+---
+
+#### **2. User Responsibility**
+By using the Software, you agree that:
+- You are solely responsible for your actions while using the Software.
+- The developers, contributors, and copyright holders cannot be held liable for any unlawful or dangerous activities conducted using the Software.
+- Any illegal activities, including but not limited to child exploitation, terrorism, hacking, or unauthorized surveillance, are strictly prohibited.
+
+If you engage in illegal activities, you acknowledge that you are acting independently and without the endorsement or support of the developers, contributors, or copyright holders.
+
+---
+
+#### **3. Privacy and Anonymity**
+The Software prioritizes user privacy and anonymity. Features such as end-to-end encryption, decentralized networking, and anti-tamper mechanisms are designed to ensure that your data remains secure and inaccessible to unauthorized parties.
+
+However, the developers, contributors, and copyright holders reserve the right to take action to prevent misuse of the Software or comply with legal requirements if necessary. This includes cooperating with law enforcement in cases where there is clear evidence of illegal activity that poses a significant threat to public safety.
+
+---
+
+#### **4. Resistance to Abuse of Power**
+The Software is designed to resist abuse by authorities, corporations, or other entities seeking to exploit its features for unethical purposes. We are committed to:
+- Protecting user privacy against unwarranted surveillance or data collection.
+- Opposing any attempts to misuse the Software for power, control, or coercion.
+- Ensuring that the Software remains a tool for empowerment rather than oppression.
+
+If law enforcement or other entities attempt to misuse the Software or demand access to user data without proper legal justification, we encourage users to resist such actions through lawful means.
+
+---
+
+#### **5. Disclaimer of Liability**
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
+
+---
+
+#### **6. Ethical Use**
+The Software is intended to be a tool for empowerment, privacy, and freedom. It is not designed to facilitate illegal activities, harassment, or harm to others. By using the Software, you agree to adhere to ethical principles and respect the rights and dignity of others.
+
+---
+
+#### **7. Modifications to the License**
+We reserve the right to update or modify this License at any time. Continued use of the Software after such changes constitutes your acceptance of the updated terms.
+
+---
+
+#### **8. Closing Remarks**
+Thank you for taking the time to read and understand this License. While we've done our best to cover all bases, we encourage you to consult with legal experts if you have specific concerns about compliance or liability.
+
+Good luck out there—stay safe, stay private, and remember: We've covered our asses with this one. 😊
