@@ -33,9 +33,21 @@ As the creator of HavenOS, I retain full discretion over the handling of any dat
 
 I will only release or disclose data if I believe it is necessary to prevent significant harm or address serious threats to public safety. In all other cases, I will uphold the privacy and anonymity of users to the fullest extent possible.
 
+**Important Note**: While HavenOS is designed to be a fully hidden and private system, I reserve the right to stop or disable a device remotely if/when needed to gather evidence for cases of critical importance. This action will only be taken in situations where there is clear justification, such as preventing imminent harm or addressing severe threats to public safety. This measure is not intended for unlawful spying or unwarranted surveillance but as a safeguard to ensure accountability in rare and exceptional circumstances.
+
 ---
 
-#### **5. Resistance to Abuse of Power**
+#### **5. Legal Right to Restrict Access**
+In accordance with applicable laws, I reserve the legal right to restrict or ban a user from accessing their device if:
+- The user has caused or is actively causing real-world harm, such as engaging in illegal activities, harassment, or threats to public safety.
+- There is credible evidence that the user is planning to cause harm or misuse the system for unethical purposes.
+- Such action is deemed necessary to protect the integrity of the system, other users, or the broader community.
+
+This restriction may include disabling access to HavenOS, locking the device, or taking other measures to mitigate the threat. By using HavenOS, you acknowledge and consent to these actions being taken if warranted by the circumstances.
+
+---
+
+#### **6. Resistance to Abuse of Power**
 HavenOS is designed to resist abuse by authorities, corporations, or other entities seeking to exploit its features for unethical purposes. We are committed to:
 - Protecting user privacy against unwarranted surveillance or data collection.
 - Opposing any attempts to misuse HavenOS for power, control, or coercion.
@@ -45,7 +57,7 @@ If law enforcement or other entities attempt to misuse HavenOS or demand access 
 
 ---
 
-#### **6. Opposition to Authoritarian Regimes**
+#### **7. Opposition to Authoritarian Regimes**
 HavenOS was created to promote freedom, privacy, and decentralization—values that are fundamentally opposed to authoritarian regimes, censorship, and state-sponsored surveillance. Entities that engage in practices such as:
 - Mass surveillance of citizens.
 - Censorship of free speech and expression.
@@ -57,7 +69,7 @@ We stand in solidarity with individuals and communities resisting oppression and
 
 ---
 
-#### **7. Restrictions on High-Ranking Officials**
+#### **8. Restrictions on High-Ranking Officials**
 To ensure the integrity of HavenOS and prevent its misuse by individuals in positions of power, the following restrictions apply:
 - **Ban on Presidents, Prime Ministers, and Equivalent Officials**: High-ranking government officials, including but not limited to presidents, prime ministers, and heads of state, are prohibited from using HavenOS. This restriction is intended to prevent the potential for abuse of the platform to surveil, censor, or harm others.
 - **Separate Platform Requirement**: If a high-ranking official attempts to use HavenOS, they will be immediately banned and redirected to a separate, isolated platform where their actions can be monitored and restricted. This ensures that their presence does not compromise the privacy, security, or ethical principles of HavenOS.
@@ -65,7 +77,7 @@ To ensure the integrity of HavenOS and prevent its misuse by individuals in posi
 
 ---
 
-#### **8. Why Governments Are Not Welcome**
+#### **9. Why Governments Are Not Welcome**
 HavenOS is built on the principles of decentralization, privacy, and user empowerment. Governments and other centralized authorities are not welcome to use, control, or exploit this system for their own purposes. Specifically:
 - **No Government Control**: HavenOS is designed to operate independently of any government or centralized authority. Any attempt to seize control of the system or repurpose it for surveillance, censorship, or other unethical uses will be met with resistance.
 - **Commitment to Privacy**: I am committed to protecting user privacy and will not facilitate government overreach or abuse of power.
@@ -73,7 +85,7 @@ HavenOS is built on the principles of decentralization, privacy, and user empowe
 
 ---
 
-#### **9. Disclaimer of Liability**
+#### **10. Disclaimer of Liability**
 The developers and founders of HavenOS are not liable for any damages, losses, or consequences resulting from the use of this software. This includes but is not limited to:
 - Illegal activities conducted by users.
 - Unauthorized access to or misuse of the system.
@@ -83,12 +95,12 @@ You agree to indemnify and hold harmless the developers and founders of HavenOS 
 
 ---
 
-#### **10. Ethical Use**
+#### **11. Ethical Use**
 HavenOS is intended to be a tool for empowerment, privacy, and freedom. It is not designed to facilitate illegal activities, harassment, or harm to others. By using this software, you agree to adhere to ethical principles and respect the rights and dignity of others.
 
 ---
 
-#### **11. Non-Commercial, Decentralized Nature**
+#### **12. Non-Commercial, Decentralized Nature**
 HavenOS is not owned or operated by any company, corporation, or government entity. It is an independent, decentralized project created and maintained by individuals who believe in the principles of privacy, freedom, and user empowerment. Key points include:
 - **No Corporate or Government Ownership**: HavenOS is not affiliated with any commercial or governmental organization. It operates independently and is not subject to external control or influence.
 - **Decentralized Operation**: The system is designed to function without reliance on centralized servers, authorities, or intermediaries. This ensures that no single entity has control over the platform.
@@ -96,7 +108,7 @@ HavenOS is not owned or operated by any company, corporation, or government enti
 
 ---
 
-#### **12. Decentralized Banking System**
+#### **13. Decentralized Banking System**
 HavenOS includes a decentralized banking system that operates using an internal virtual currency (e.g., HavenCoins). Key features of this system include:
 - **Internal Currency**: The virtual currency used within HavenOS has no real-world value and cannot be exchanged for fiat currencies or cryptocurrencies. It exists solely for use within the OS ecosystem.
 - **Decentralized Ledger**: Transactions are recorded on a secure, decentralized ledger to ensure transparency and prevent tampering.
@@ -106,7 +118,7 @@ HavenOS includes a decentralized banking system that operates using an internal 
 
 ---
 
-#### **13. Withdrawing HavenCoins**
+#### **14. Withdrawing HavenCoins**
 While it is technically possible to withdraw HavenCoins from the system, doing so is strongly discouraged for the following reasons:
 - **Banks Become Involved**: Once you withdraw HavenCoins and convert them into real-world currency or assets, traditional financial institutions and their regulations become involved. This exposes you to risks that HavenOS cannot mitigate or protect against.
 - **Loss of Anonymity**: Withdrawing HavenCoins may require linking your activity to real-world identities, compromising the anonymity and privacy that HavenOS provides.
@@ -116,7 +128,7 @@ While it is technically possible to withdraw HavenCoins from the system, doing s
 
 ---
 
-#### **14. Security Disclaimer**
+#### **15. Security Disclaimer**
 While HavenOS is designed with privacy and security in mind, it is not marketed or guaranteed to be the "most secure OS ever." Users should understand that:
 - No system is completely immune to vulnerabilities or attacks.
 - The decentralized nature of HavenOS reduces certain risks but does not eliminate them entirely.
@@ -124,12 +136,12 @@ While HavenOS is designed with privacy and security in mind, it is not marketed 
 
 ---
 
-#### **15. Modifications to the ToS**
+#### **16. Modifications to the ToS**
 We reserve the right to update or modify these Terms of Service at any time. Continued use of HavenOS after such changes constitutes your acceptance of the updated terms.
 
 ---
 
-#### **16. Closing Remarks**
+#### **17. Closing Remarks**
 Thank you for taking the time to read and understand the Terms of Service for HavenOS. This document has been carefully crafted to balance user privacy, ethical principles, and legal considerations. While I’ve done my best to cover all bases, I encourage you to consult with legal experts if you have specific concerns about compliance or liability.
 
 Good luck out there—stay safe, stay private, and remember: I've covered my ass with this one. 😊
